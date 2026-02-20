@@ -13,6 +13,7 @@ htmlcov/
 adk_env/
 .venv/
 venv/
+Chat_System/.env
 
 # Environment files
 .env.*
@@ -30,3 +31,4 @@ venv/
 # OS files
 .DS_Store
 Thumbs.db
+Chat_System/.env
